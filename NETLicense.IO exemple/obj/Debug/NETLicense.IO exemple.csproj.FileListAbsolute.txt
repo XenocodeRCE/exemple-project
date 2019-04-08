@@ -1,0 +1,9 @@
+C:\Users\xenocode\source\repos\NETLicense.IO exemple\NETLicense.IO exemple\bin\Debug\NETLicense.IO exemple.exe
+C:\Users\xenocode\source\repos\NETLicense.IO exemple\NETLicense.IO exemple\bin\Debug\NETLicense.IO exemple.pdb
+C:\Users\xenocode\source\repos\NETLicense.IO exemple\NETLicense.IO exemple\obj\Debug\NETLicense.IO_exemple.Form1.resources
+C:\Users\xenocode\source\repos\NETLicense.IO exemple\NETLicense.IO exemple\obj\Debug\NETLicense.IO_exemple.Properties.Resources.resources
+C:\Users\xenocode\source\repos\NETLicense.IO exemple\NETLicense.IO exemple\obj\Debug\NETLicense.IO exemple.csproj.GenerateResource.cache
+C:\Users\xenocode\source\repos\NETLicense.IO exemple\NETLicense.IO exemple\obj\Debug\NETLicense.IO exemple.csproj.CoreCompileInputs.cache
+C:\Users\xenocode\source\repos\NETLicense.IO exemple\NETLicense.IO exemple\obj\Debug\NETLicense.IO exemple.exe
+C:\Users\xenocode\source\repos\NETLicense.IO exemple\NETLicense.IO exemple\obj\Debug\NETLicense.IO exemple.pdb
+C:\Users\xenocode\source\repos\NETLicense.IO exemple\NETLicense.IO exemple\obj\Debug\NETLicense.IO exemple.csprojAssemblyReference.cache
